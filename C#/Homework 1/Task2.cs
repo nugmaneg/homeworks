@@ -7,15 +7,20 @@ a = -9 b = -3 -> max = -3
 
 using System;
 
-class Program {
-    static void Main(string[] args) {
-        int a = 5, b = 7;
-        if (a > b) {
-            Console.WriteLine("max = " + a);
-            Console.WriteLine("min = " + b);
-        } else {
-            Console.WriteLine("max = " + b);
-            Console.WriteLine("min = " + a);
-        }
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите первое число (a): ");
+        int a = int.Parse(Console.ReadLine());
+
+        Console.Write("Введите второе число (b): ");
+        int b = int.Parse(Console.ReadLine());
+
+        int max = Math.Max(a, b);
+        int min = Math.Min(a, b);
+
+        Console.WriteLine($"max = {max}");
+        Console.WriteLine($"min = {min}");
     }
 }

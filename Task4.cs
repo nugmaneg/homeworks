@@ -7,16 +7,21 @@
 
 using System;
 
-class Program {
-    static void Main(string[] args) {
-        int a = 2, b = 3, c = 7;
-        int max = a;
-        if (b > max) {
-            max = b;
-        }
-        if (c > max) {
-            max = c;
-        }
-        Console.WriteLine(max);
+class Program
+{
+    static void Main()
+    {
+        Console.Write("Введите первое число: ");
+        int num1 = int.Parse(Console.ReadLine());
+
+        Console.Write("Введите второе число: ");
+        int num2 = int.Parse(Console.ReadLine());
+
+        Console.Write("Введите третье число: ");
+        int num3 = int.Parse(Console.ReadLine());
+
+        int max = Math.Max(Math.Max(num1, num2), num3);
+
+        Console.WriteLine($"Максимальное число: {max}");
     }
 }
