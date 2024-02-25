@@ -1,0 +1,15 @@
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/bin/Debug/net8.0/Task2
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/bin/Debug/net8.0/Task2.dll
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.sourcelink.json
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.dll
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/nugmaneg/homeworks/C#/Lesson7/Task2/obj/Debug/net8.0/ref/Task2.dll
