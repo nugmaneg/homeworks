@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HMIipTubajN/oBAV8flv+6GLno+SHaedPp07J+SfXCzr2pQnn8NzBBz/yGUTa7jSbxUP5pZTGShtc3J5sCiCCQ==",
+  "dgSpecHash": "F21RI3LFQMBss8JsCttFEb/OF2ejZE2EUiuSlcAawAHEjPLFi6QObfs91Gqop8f9M8MSgjJynLqJQBAGTHtgxg==",
   "success": true,
-  "projectFilePath": "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/Task3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/Task3.csproj",
+  "expectedPackageFiles": [
+    "/Users/nugmaneg/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/nugmaneg/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/nugmaneg/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.15/microsoft.netcore.app.host.osx-x64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

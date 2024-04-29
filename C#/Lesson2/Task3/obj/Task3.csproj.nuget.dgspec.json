@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/Task3.csproj": {}
+    "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/Task3.csproj": {}
   },
   "projects": {
-    "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/Task3.csproj": {
+    "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/Task3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/Task3.csproj",
+        "projectUniqueName": "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/Task3.csproj",
         "projectName": "Task3",
-        "projectPath": "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/Task3.csproj",
+        "projectPath": "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/Task3.csproj",
         "packagesPath": "/Users/nugmaneg/.nuget/packages/",
-        "outputPath": "/Users/nugmaneg/GB Homeworks/C#/Lesson2/Task3/obj/",
+        "outputPath": "/Users/nugmaneg/homeworks/C#/Lesson2/Task3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nugmaneg/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
